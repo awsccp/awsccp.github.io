@@ -6,4 +6,6 @@
 There are no updates at this time.
 
 ## Errata
+[All errata can be found here.](https://github.com/awsccp/awsccp.github.io/issues)
+
 To report errata, please [create an issue here](https://github.com/awsccp/awsccp.github.io/issues/new?assignees=&labels=&template=errata-template.md&title=%5BErrata%5D).
